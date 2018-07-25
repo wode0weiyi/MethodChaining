@@ -1,0 +1,4 @@
+platform:ios, '8.0'
+target '点语法实现alert' do
+pod 'ReactiveCocoa','~>2.1.8'
+end

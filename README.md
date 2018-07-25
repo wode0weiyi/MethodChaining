@@ -18,5 +18,6 @@ alertController通过点语法添加action和textField，
         });
         [self presentViewController:alertVC animated:true completion:nil];
 
+[block链式编程基本语法和技术分享](https://www.jianshu.com/p/4cc0e16e2d68)
 
 ### 有问题欢迎咨询

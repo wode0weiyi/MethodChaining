@@ -1,0 +1,2 @@
+# MethodChaining
+ios链式编程理解，附上alertController的链式demo
